@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/pifafu">Twitter</a> -->
+
+<details>
+  <summary><b>:telescope: 2020-2021 annal review</b></summary>
+
+</details>
+
+<details>
+  <summary><b>:skull: 2019-2020 annal review</b></summary>
+
+</details>
