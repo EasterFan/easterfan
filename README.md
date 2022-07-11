@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏠 I’m currently working from home
-- 📖 I’m currently learning `Rust`
-- 👦 About me: `CKA` `CKAD` `CNCF Nocalhost Maintainer`
-- 💬 Ask me about `K8s` `Docker` `Istio` `Envoy` `Ansible`
+
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=easterfan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats
