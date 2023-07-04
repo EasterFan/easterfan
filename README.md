@@ -1,5 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 EasterFan!
 
+![](https://www.credly.com/badges/e0bcf1f1-cf56-4d3a-a0a9-02051c7b44f6/public_url)
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e0bcf1f1-cf56-4d3a-a0a9-02051c7b44f6" data-share-badge-host="https://www.credly.com"></div>
 
