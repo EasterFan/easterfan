@@ -1,12 +1,9 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 EasterFan!
 
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e0bcf1f1-cf56-4d3a-a0a9-02051c7b44f6" data-share-badge-host="https://www.credly.com"></div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e0bcf1f1-cf56-4d3a-a0a9-02051c7b44f6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-
-
-
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 <!-- [![](https://img.shields.io/badge/--%23000000?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/madawei2699)
