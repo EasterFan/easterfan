@@ -1,6 +1,128 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 EasterFan!
 
-![](https://www.credly.com/badges/e0bcf1f1-cf56-4d3a-a0a9-02051c7b44f6/public_url)
+![](https://www.credly.com/badges/e0bcf1f1-cf56-4d3a-a0a9-02051c7b44f6/public_url# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 EasterFan!
+
+
+![](https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e0bcf1f1-cf56-4d3a-a0a9-02051c7b44f6" data-share-badge-host="https://www.credly.com"></div>
+
+
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+
+
+<!-- [![](https://img.shields.io/badge/--%23000000?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/madawei2699)
+[![](https://img.shields.io/badge/--%23000000?style=flat&logo=wechat&logoColor=ffffff)](https://img.bmpi.dev/755b406f-43ae-e382-e13c-547116d3e7d5.png)
+[![](https://img.shields.io/badge/--%23000000?style=flat&logo=zhihu&logoColor=ffffff)](https://zhuanlan.zhihu.com/improve365)
+[![](https://img.shields.io/badge/--%23000000?style=flat&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCbg-Y24Z1H0nONW-bxgzv6w)
+[![](https://img.shields.io/badge/--%23000000?style=flat&logo=tinyletter&logoColor=ffffff)](https://tinyletter.com/bmpi-dev)
+[![](https://img.shields.io/badge/--%23000000?style=flat&logo=rss&logoColor=ffffff)](https://www.bmpi.dev/index.xml)
+[![](https://img.shields.io/badge/-CPC-%23000000?style=flat&logo=telegram&logoColor=ffffff)](https://t.me/web_cpc)
+[![](https://img.shields.io/badge/-BMPI-%23000000?style=flat&logo=telegram&logoColor=ffffff)](https://t.me/bmpi365)
+[![](https://img.shields.io/badge/dynamic/json?label=BMPI.dev's%20PV&query=%24.count&url=https%3A%2F%2Fapi.bmpi.dev%2Fpage-views%2Fbmpi-dev-all-page-views%2F
+)](https://www.bmpi.dev) -->
+
+
+<!-- :smiley: ` ` I am a full stack developer living [HangZhou](https://github.com/madawei2699/xian-IT). You can find more in my [blog](https://www.bmpi.dev/). -->
+
+
+:smiley: ` ` I am a full stack developer living [HangZhou]. You can find more in my [bilibili](https://space.bilibili.com/264190109)
+
+
+:books: ` ` My annual summary posts:
+
+
+<!-- * [2022](https://www.bmpi.dev/self/annual-summary/2022/)
+* [2021](https://www.bmpi.dev/self/annual-summary/2021/)
+* [2020](https://www.bmpi.dev/self/annual-summary/2020/) -->
+
+
+<!-- :scroll: ` ` Latest Blog Posts -->
+<!-- BLOG-POST-LIST:START -->
+<!-- - [SQLite的文艺复兴](https://www.bmpi.dev/dev/renaissance-sqlite/) -->
+<!-- - [2022亏了多少 # 组合季报&lpar;2022Q4&rpar;](https://www.bmpi.dev/money/passive-income-protfolio/2022q4/) -->
+<!-- - [我的2022](https://www.bmpi.dev/self/annual-summary/2022/) -->
+<!-- - [AI降临](https://www.bmpi.dev/self/ai-arrival/) -->
+<!-- - [构建自己的信息简报](https://www.bmpi.dev/self/use-rss-email-read/) -->
+<!-- BLOG-POST-LIST:END -->
+
+
+## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
+
+
+![Elixir](https://img.shields.io/badge/-Elixir-%234B275F?style=flat-square&logo=elixir&logoColor=ffffff)
+![Java8](https://img.shields.io/badge/-Java8-%23007396?style=flat-square&logo=java8&logoColor=ffffff)
+![JavaFX](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Clojure](https://img.shields.io/badge/-Clojure-%235881D8?style=flat-square&logo=clojure&logoColor=ffffff)
+![Swift](https://img.shields.io/badge/-Swift-%23FA7343?style=flat-square&logo=swift&logoColor=ffffff)
+![Golang](https://img.shields.io/badge/-Golang-%2329BEB0?style=flat-square&logo=go&logoColor=ffffff)
+
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%234fc08d?style=flat-square&logo=vue-dot-js&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-%2361dafb?style=flat-square&logo=react&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=next-dot-js&logoColor=ffffff)
+![Svelte](https:img.shields.io/badge/-Svelte-%23ff3e00?style=flat-square&logo=svelte&logoColor=ffffff)# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 EasterFan!
+
+![](https://www.credly.com/badges/e0bcf1f1-cf56-4d3a-a0a9-02051c7b44f6/public_url   )
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e0bcf1f1-cf56-4d3a-a0a9-02051c7b44f6" data-share-badge-host="https://www.credly.com"></div>
+
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+<!-- [![](https://img.shields.io/badge/--%23000000?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/madawei2699)
+[![](https://img.shields.io/badge/--%23000000?style=flat&logo=wechat&logoColor=ffffff)](https://img.bmpi.dev/755b406f-43ae-e382-e13c-547116d3e7d5.png)
+[![](https://img.shields.io/badge/--%23000000?style=flat&logo=zhihu&logoColor=ffffff)](https://zhuanlan.zhihu.com/improve365)
+[![](https://img.shields.io/badge/--%23000000?style=flat&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCbg-Y24Z1H0nONW-bxgzv6w)
+[![](https://img.shields.io/badge/--%23000000?style=flat&logo=tinyletter&logoColor=ffffff)](https://tinyletter.com/bmpi-dev)
+[![](https://img.shields.io/badge/--%23000000?style=flat&logo=rss&logoColor=ffffff)](https://www.bmpi.dev/index.xml)
+[![](https://img.shields.io/badge/-CPC-%23000000?style=flat&logo=telegram&logoColor=ffffff)](https://t.me/web_cpc)
+[![](https://img.shields.io/badge/-BMPI-%23000000?style=flat&logo=telegram&logoColor=ffffff)](https://t.me/bmpi365)
+[![](https://img.shields.io/badge/dynamic/json?label=BMPI.dev's%20PV&query=%24.count&url=https%3A%2F%2Fapi.bmpi.dev%2Fpage-views%2Fbmpi-dev-all-page-views%2F
+)](https://www.bmpi.dev) -->
+
+<!-- :smiley: ` ` I am a full stack developer living [HangZhou](https://github.com/madawei2699/xian-IT). You can find more in my [blog](https://www.bmpi.dev/). -->
+
+:smiley: ` ` I am a full stack developer living [HangZhou]. You can find more in my [bilibili](https://space.bilibili.com/264190109)
+
+:books: ` ` My annual summary posts:
+
+<!-- * [2022](https://www.bmpi.dev/self/annual-summary/2022/)
+* [2021](https://www.bmpi.dev/self/annual-summary/2021/)
+* [2020](https://www.bmpi.dev/self/annual-summary/2020/) -->
+
+<!-- :scroll: ` ` Latest Blog Posts -->
+<!-- BLOG-POST-LIST:START -->
+<!-- - [SQLite的文艺复兴](https://www.bmpi.dev/dev/renaissance-sqlite/) -->
+<!-- - [2022亏了多少 # 组合季报&lpar;2022Q4&rpar;](https://www.bmpi.dev/money/passive-income-protfolio/2022q4/) -->
+<!-- - [我的2022](https://www.bmpi.dev/self/annual-summary/2022/) -->
+<!-- - [AI降临](https://www.bmpi.dev/self/ai-arrival/) -->
+<!-- - [构建自己的信息简报](https://www.bmpi.dev/self/use-rss-email-read/) -->
+<!-- BLOG-POST-LIST:END -->
+
+## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
+
+![Elixir](https://img.shields.io/badge/-Elixir-%234B275F?style=flat-square&logo=elixir&logoColor=ffffff)
+![Java8](https://img.shields.io/badge/-Java8-%23007396?style=flat-square&logo=java8&logoColor=ffffff)
+![JavaFX](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Clojure](https://img.shields.io/badge/-Clojure-%235881D8?style=flat-square&logo=clojure&logoColor=ffffff)
+![Swift](https://img.shields.io/badge/-Swift-%23FA7343?style=flat-square&logo=swift&logoColor=ffffff)
+![Golang](https://img.shields.io/badge/-Golang-%2329BEB0?style=flat-square&logo=go&logoColor=ffffff)
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%234fc08d?style=flat-square&logo=vue-dot-js&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-%2361dafb?style=flat-square&logo=react&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=next-dot-js&logoColor=ffffff)
+![Svelte](https://img.shields.io/badge/-Svelte-%23ff3e00?style=flat-square&logo=svelte&logoColor=ffffff)
+)
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e0bcf1f1-cf56-4d3a-a0a9-02051c7b44f6" data-share-badge-host="https://www.credly.com"></div>
 
