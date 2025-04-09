@@ -7,6 +7,7 @@ Hi, I'm EasterFan,
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
 
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=java&logoColor=ffffff)
+![springboot](https://img.shields.io/badge/-springboot-%23007396?style=flat-square&logo=springboot&logoColor=ffffff)
 ![Shell](https://img.shields.io/badge/-Shell-%23412991?style=flat-square&logo=shell&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23007ACC?style=flat-square&logo=JavaScript&logoColor=ffffff)
 
@@ -22,6 +23,11 @@ Hi, I'm EasterFan,
 
 ![Nginx](https://img.shields.io/badge/-Nginx-%23269539?style=flat-square&logo=nginx&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+
+![flyway](https://img.shields.io/badge/-flyway-%234479A1?style=flat-square&logo=flyway&logoColor=ffffff)
+![jpa](https://img.shields.io/badge/-jpa-%234479A1?style=flat-square&logo=jpa&logoColor=ffffff)
+![mybatis](https://img.shields.io/badge/-mybatis-%234479A1?style=flat-square&logo=mybatis&logoColor=ffffff)
+
 
 
 ## 𝗦𝘁𝗮𝘁𝘀 for nerds
