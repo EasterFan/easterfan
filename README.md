@@ -4,7 +4,7 @@ Hi, I'm EasterFan👐,
 :moneybag: ` ` trader: I wrote [Lay](https://chromewebstore.google.com/detail/lay/fjfeakhnkfdhdlfebhcpggknkjoleaog), a chrome extension tool for test A-share stock MACD indicator. Over 500+ users test and earn money with it🤑.  
 :books: ` ` youtuber: To do but not start🤣. Link me [there](https://easterfan.github.io/about.html). 
 
-In 2025， I plan to use ￥100000 to test macd indicator in A-share. Record and publish my trade strategy in [X(Twitter) #真金白银测指标Lay](https://x.com/hashtag/%E7%9C%9F%E9%87%91%E7%99%BD%E9%93%B6%E6%B5%8B%E6%8C%87%E6%A0%87Lay?src=hashtag_click), i want to lay on the bed and earn money 🛌.
+In 2025， I plan to use ￥100000 to test macd indicator in A-share. Record and publish my trade strategy in [X(Twitter) #真金白银测指标Lay](https://x.com/hashtag/%E7%9C%9F%E9%87%91%E7%99%BD%E9%93%B6%E6%B5%8B%E6%8C%87%E6%A0%87Lay?src=hashtag_click), I want to lay on the bed 🛌 and earn money💰.
 
 
 
