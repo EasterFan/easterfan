@@ -21,6 +21,3 @@ Hi, I'm EasterFan,
 
 
 ## 𝗦𝘁𝗮𝘁𝘀 for nerds
-
-### Personal GitHub Statistics
-![Personal GitHub Stats](https://github-readme-stats-git-responsetype-dawei-mas-projects.vercel.app/api?username=madawei2699&count_private=true&show_icons=true&theme=transparent)
