@@ -1,7 +1,7 @@
 Hi, I'm EasterFan👐,
 
-:smiley: ` ` coder: I'm a software engineer in cloud and cloud native domain. I participated in [this project](https://www.linkedin.com/in/idongfangfan/). ✊  
-:moneybag: ` ` trader: I wrote [Lay](https://chromewebstore.google.com/detail/lay/fjfeakhnkfdhdlfebhcpggknkjoleaog), a chrome extension tools for test A-share stock MACD indicator. Over 500+ users test and earn money with it🤑.  
+:smiley: ` ` coder: I'm a software engineer in cloud and cloud native domain. I contributed in those [project](https://www.linkedin.com/in/idongfangfan/). ✊  
+:moneybag: ` ` trader: I wrote [Lay](https://chromewebstore.google.com/detail/lay/fjfeakhnkfdhdlfebhcpggknkjoleaog), a chrome extension tool for test A-share stock MACD indicator. Over 500+ users test and earn money with it🤑.  
 :books: ` ` youtuber: To do but not start🤣. Link me [there](https://easterfan.github.io/about.html). 
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
