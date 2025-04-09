@@ -1,10 +1,12 @@
-Hi, I'm EasterFan, a software engineer
+Hi, I'm EasterFan,
 
+:smiley: ` ` I am a software engineer. Link me [there](https://easterfan.github.io/about.html).
+
+:books: ` ` My annual summary posts:
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
 
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=java&logoColor=ffffff)
-
 ![Shell](https://img.shields.io/badge/-Shell-%23412991?style=flat-square&logo=shell&logoColor=ffffff)
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326ce5?style=flat-square&logo=kubernetes&logoColor=ffffff)
@@ -16,3 +18,9 @@ Hi, I'm EasterFan, a software engineer
 
 ![Nginx](https://img.shields.io/badge/-Nginx-%23269539?style=flat-square&logo=nginx&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+
+
+## 𝗦𝘁𝗮𝘁𝘀 for nerds
+
+### Personal GitHub Statistics
+![Personal GitHub Stats](https://github-readme-stats-git-responsetype-dawei-mas-projects.vercel.app/api?username=madawei2699&count_private=true&show_icons=true&theme=transparent)
