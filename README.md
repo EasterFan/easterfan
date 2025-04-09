@@ -5,7 +5,7 @@ Hi, I'm EasterFan, a software engineer
 
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=java&logoColor=ffffff)
 
-![OpenAI](https://img.shields.io/badge/-OpenAI-%23412991?style=flat-square&logo=openai&logoColor=ffffff)
+![Shell](https://img.shields.io/badge/-Shell-%23412991?style=flat-square&logo=openai&logoColor=ffffff)
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326ce5?style=flat-square&logo=kubernetes&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=%23ffffff)
