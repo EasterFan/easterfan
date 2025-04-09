@@ -1,7 +1,7 @@
 Hi, I'm EasterFan,
 
 :smiley: ` ` I am a software engineer. Link me [there](https://easterfan.github.io/about.html).
-
+:moneybag: ` ` I wrote [Lay](https://chromewebstore.google.com/detail/lay/fjfeakhnkfdhdlfebhcpggknkjoleaog), a chrome extension tools for test A-share stock MACD indicator.
 :books: ` ` My annual summary posts:
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
@@ -28,7 +28,3 @@ Hi, I'm EasterFan,
 ![jpa](https://img.shields.io/badge/-jpa-%234479A1?style=flat-square&logo=jpa&logoColor=ffffff)
 ![mybatis](https://img.shields.io/badge/-mybatis-%234479A1?style=flat-square&logo=mybatis&logoColor=ffffff)
 
-
-
-## 𝗦𝘁𝗮𝘁𝘀 for nerds
-writer & mantainer of chrome extension [Lay](https://chromewebstore.google.com/detail/lay/fjfeakhnkfdhdlfebhcpggknkjoleaog)
