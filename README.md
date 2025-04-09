@@ -31,3 +31,4 @@ Hi, I'm EasterFan,
 
 
 ## 𝗦𝘁𝗮𝘁𝘀 for nerds
+writer & mantainer of chrome extension [Lay](https://chromewebstore.google.com/detail/lay/fjfeakhnkfdhdlfebhcpggknkjoleaog)
