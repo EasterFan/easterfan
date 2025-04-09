@@ -2,8 +2,7 @@ Hi, I'm EasterFan,
 
 :smiley: ` ` I am a software engineer. Link me [there](https://easterfan.github.io/about.html).  
 :moneybag: ` ` I wrote [Lay](https://chromewebstore.google.com/detail/lay/fjfeakhnkfdhdlfebhcpggknkjoleaog), a chrome extension tools for test A-share stock MACD indicator. Over 500+ users test and earn money with it. 
-  
-:books: ` ` My annual summary posts:
+  :books: ` ` My annual summary posts:
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
 
