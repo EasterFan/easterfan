@@ -1,4 +1,4 @@
-Hi, I'm EasterFan, a devops engineer
+Hi, I'm EasterFan, a software engineer
 
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
